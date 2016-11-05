@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.716,D:\Private\YandexDisk\Delphi\mcu\McuUpdater\mcuupdater.dfm=C:\Users\adm\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.281,D:\Private\YandexDisk\Delphi\mcu\McuUpdater\updater.dproj=D:\Private\YandexDisk\Delphi\mcu\McuUpdater\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.716,D:\Private\YandexDisk\Delphi\mcu\McuUpdater\mcuupdater.pas=C:\Users\adm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.656,D:\Private\YandexDisk\Delphi\mcu\McuUpdater\Project1.dproj=C:\Users\adm\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.614,=C:\Users\adm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.512,=C:\Users\adm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

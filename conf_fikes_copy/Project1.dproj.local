@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.095,=C:\Users\adm\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.826,C:\Users\adm\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Private\YandexDisk\Delphi\mcu\conf_fikes_copy\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.395,C:\Users\adm\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Private\YandexDisk\Delphi\mcu\conf_fikes_copy\conf_copy.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.395,C:\Users\adm\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Private\YandexDisk\Delphi\mcu\conf_fikes_copy\conf_copy.pas</Transaction>
+  </Transactions>
+</BorlandProject>
